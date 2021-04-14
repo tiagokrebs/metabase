@@ -1,1 +1,3 @@
 certs/*
+plugins/*
+!plugins/clickhouse.metabase-driver.jar
